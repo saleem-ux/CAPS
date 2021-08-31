@@ -30,10 +30,10 @@
 ## Links :
 
   * ### Pull Request:
+[PR](https://github.com/saleem-ux/CAPS/pull/1)
 
-\
   * ### Actions
-
+[Actions](https://github.com/saleem-ux/CAPS/actions)
 
 
 ## SetUp :
