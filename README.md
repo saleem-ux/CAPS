@@ -1,3 +1,96 @@
+# Lab: Class 12 ,Socket.io
+
+# Author: 
+
+   ## Saleem Diab
+
+
+## description
+### Project: CAPS (Code Academy Parcel Service)
+#### A real-time service that allows for vendors, such as flower shops or restaurants, to alert a system of a package needing to be delivered, for drivers to instantly see what’s in their pickup queue, and then to alert the vendors as to the state of the deliveries (in transit, and then delivered).
+
+
+
+
+## UML UML / Application Wiring Diagram :
+  * ### Lab 11 UML - events
+
+  ![img](./images/lab11uml.jpg)
+
+  * ### Lab 12 UML - Socket.io
+  ![img](./images/lab12.jpg)
+
+## Links :
+
+   ### Pull Request:
+
+  * ### [Pull Request events to main](https://github.com/saleem-ux/CAPS/pull/1)
+  * ### [Pull Request Socket.io to Main](https://github.com/saleem-ux/CAPS/pull/2)
+
+   ### Actions
+
+  * ### https://github.com/saleem-ux/CAPS/actions
+
+## SetUp :
+
+  * ### Make caps.js  and directories for caps vendor driver .
+
+  * ### npm i dotenv faker jest npm i socket.io socket.io-client
+
+  * ### Add STORE_NAME PORT STORE_ID in .env file
+
+  * ### Start the server using node caps.js , node vendor/vendor.js , node driver/driver.js by splitting the terminal window to three parts or open 3 terminal windows and run each common on a different part to see the connection between the servers
+  
+## console output  :
+  * ### Lab 11 - events
+  ![img](./images/lab11.png)
+
+  * ### Lab 12 - Socket.io
+
+ ![img](./images/lab12a.png)
+ ![img](./images/lab12b.png)
+ ![img](./images/lab12c.png)
+ 
+
+## Tests :
+
+### npm run test
+
+  * ### Lab 11 - events
+
+  ![img](./images/test11.png)
+
+  * ### Lab 12 - Socket.io
+  ![img](./images/test12.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CAPS
 # Event Driven Applications
 
